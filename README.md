@@ -1,2 +1,2 @@
-# EmbeddedSystemDesign-MCTE4342
+# MCTE4342-Embedded-System-Design
 Weekly examples
