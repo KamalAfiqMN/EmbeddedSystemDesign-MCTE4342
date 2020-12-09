@@ -1,3 +1,4 @@
+# Timer example 1
 **Theoretical frequency of the generated PWM signal**
 
 Write a program to produce a PWM signal with 50% duty cycle on
