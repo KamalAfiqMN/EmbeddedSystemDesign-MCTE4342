@@ -1,4 +1,4 @@
-#Interrupts Example 1 
+# Interrupts Example 1 
 **External Interrupt**
 
 A tactile button is connected to PD2 of ATmega328p via an external pull-down resistor
